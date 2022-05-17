@@ -1,2 +1,2 @@
-# Javascript_journey
-My personal learning experience in JavaScript from ground up
+# ReactNative-zero
+My personal learning experience in ReactNative from ground zero
