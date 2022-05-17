@@ -1,0 +1,4 @@
+Data type means the nature of the data used or the type of the variable.
+There are mainly two types.
+1. Primitive datatype: Primitive datatypes are pre-defined datatypes that are used in the code. For example, number, string, boolean, etc.
+2. Non-primitve datatype: Non-primitive datatypes are those which are defined by the user. For example, object, array, list etc.
