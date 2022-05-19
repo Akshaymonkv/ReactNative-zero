@@ -12,3 +12,6 @@ Order in which to go thorugh the files:
       -->primitive_data_type
       -->non_primitive_data_type
       -->operator
+      -->conditional statements
+      -->If_else
+      -->switch
