@@ -1,0 +1,30 @@
+Loops to be xplained simple are a set of statements that can be used to repeat a particulr function
+multiple times.
+
+In Js we have mostly four times:
+1. While
+2. Do-While
+3. For
+4. For in
+
+syntax:
+
+while(condition){
+    statement
+    increment
+}
+
+do{
+    statement
+    increment
+}
+while(condition)
+
+for(initialize var;condition;increment){
+    statement
+}
+
+for in - is used mostly with fobjects
+for(<var> in object){
+    statement
+}
