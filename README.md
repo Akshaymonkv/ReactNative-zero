@@ -15,3 +15,6 @@ Order in which to go thorugh the files:
       -->conditional statements
       -->If_else
       -->switch
+      -->fi_loop
+      -->wd_loop
+      -->Objects
