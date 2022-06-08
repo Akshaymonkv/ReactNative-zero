@@ -1,0 +1,12 @@
+Objects are nothing but real world entities whihc has a state and behavior.
+In js we can creat objects in two different ways.
+
+1) Using object literal
+  This is the most usual and commonly used method
+   var object_name = {property1:'value 1',property2:'value 2'}
+
+2) Using object instance
+   This has a slightly different syntax
+   var object_name = new Object()
+   object_name.property1 = value1
+   object_name.property2 = value2
