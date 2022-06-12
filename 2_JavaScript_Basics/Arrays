@@ -1,0 +1,13 @@
+Arrays to explain in the simplest form is a group of items that can be classified together.
+Arrays are classified as objects in javascript. An object being anything with a set of characteristics and behavior
+
+We can create arrays in two different ways:
+1. By literal
+
+ var A = ['A','B','C']
+
+2. By instance of an object
+
+ var A =  new Array()
+ A[0] = 'A'
+ A[1] = 'B'
