@@ -1,0 +1,10 @@
+Javascript error handling:
+
+three operators are used to handle the error in javascript
+
+try catch and throw.
+
+What we do in the try statement is basically, we will include the code block inside try to 
+performa n operation and give the corresponding result, and the throws clause is used to give
+the said corresponding result and the catch clause will store that result in it and display the 
+result or handle the error
