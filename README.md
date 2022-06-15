@@ -10,6 +10,7 @@ Order in which to go thorugh the files:
       <li>Basics</li>
       <li>Sample project</li>
       <li>View</li>
+      <li>Components</li>
 </ul>
 
 <h1> 2 JavaScript_Basics </h1>
