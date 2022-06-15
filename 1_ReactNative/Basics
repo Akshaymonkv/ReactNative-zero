@@ -1,0 +1,31 @@
+To start creating a react native project, we can use the following CLI command:
+
+ react-native init project_name
+
+It will create a default project with a bunch of sample code and a basic app structure.
+
+To list out the most basic things to check out in the created project:
+
+ * Initially control goes to a file called index.js
+ * Inside index.js, the code would probably look like this:
+
+
+      [[[
+        
+        //index.js is the first file that will run when starting a react-native project
+
+                  import {AppRegistry} from 'react-native';                //AppRegistery is a component inside      react-native, it can be considered as an entry point or root component
+                  
+                  import App from './App';                                //This is to import the App.js file inside the   folder, it can be renamed to anything
+
+                  import {name as appName} from './app.json';            //App.json is a file structure which holds the app name data which is called here
+
+                  AppRegistry.registerComponent(appName, () => App);    //This actually passes the appname from app.json and calls  app.js
+
+
+                                                                        //it then transfers control to App.js
+      ]]]
+
+      * App.js will contain some default content and code
+      * To run a project open the terminal and give "react-native start" and the open another termainal and 
+        give "react-native run-android"
