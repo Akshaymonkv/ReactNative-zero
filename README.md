@@ -10,16 +10,17 @@ Order in which to go thorugh the files:
       <li>Basics</li>
 </ul>
 
-
-#2 - 2_JavaScript_Basics
-      -->Why JavaScript
-      -->Data Types
-      -->primitive_data_type
-      -->non_primitive_data_type
-      -->operator
-      -->conditional statements
-      -->If_else
-      -->switch
-      -->fi_loop
-      -->wd_loop
-      -->Objects
+<h1> 2 JavaScript_Basics </h1>
+<ul>
+       <li>Why JavaScript</li>
+       <li>Data Types</li>
+       <li>primitive_data_type</li>
+       <li>non_primitive_data_type</li>
+       <li>operator</li>
+      <li>conditional statements</li>
+       <li>If_else</li>
+       <li>switch</li>
+       <li>fi_loop</li>
+       <li>wd_loop</li>
+       <li>Objects</li>
+</ul>
