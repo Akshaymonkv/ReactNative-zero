@@ -1,0 +1,10 @@
+View is one of the basic components inside react-native to design and build an UI.
+
+Syntax:
+import {
+    View
+}from "react-native"
+
+<View style={{height, width etc....}}> 
+
+</View>
