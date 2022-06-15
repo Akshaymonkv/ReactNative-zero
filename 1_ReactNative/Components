@@ -1,0 +1,18 @@
+Few other availble components in react-native are:
+
+1. ImageBackground
+2. Image
+3. Text
+4. TextInput
+5. TouchableHighlight
+
+All the components follow the similar syntax:
+
+import{
+    component_name
+}from "react-native"
+
+
+<component_name style other_features>
+    child contents
+</component_name>
